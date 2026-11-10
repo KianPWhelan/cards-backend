@@ -1,8 +1,7 @@
-# Replace the address with your own server (your droplet IP address or domain)
 name: Production
 variables:
   - name: baseURL
-    value: http://your-server-address:5000
+    value: https://merncop4331.ddns.net
   - name: login
     value: johnaedo
   - name: password
